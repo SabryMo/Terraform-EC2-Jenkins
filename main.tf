@@ -22,7 +22,7 @@ resource "aws_instance" "my-ec2" {
   ami = "ami-0022f774911c1d690"
   instance_type = var.ec2_instance_type
   availability_zone = "us-east-1a"
-  key_name = "my-key" //Create Key pair and erite down the name here
+  key_name = "my-key" //Create Key pair and write down the name here
 
   
 
