@@ -2,6 +2,7 @@
 Simple Terraform Script to provision AWS EC2 (with Jenkins setup) + VPC resources
 
 ....................
+
 Note:
   Better to configure access throgh aws configure profile (cli/vscode extention)
   Or
